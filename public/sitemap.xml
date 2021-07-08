@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/post/</loc>
+    <loc>https://jiadingyi.github.io/Tips/post/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/swift/</loc>
+    <loc>https://jiadingyi.github.io/Tips/tags/swift/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/swift%E5%88%A9%E7%94%A8%E7%B1%BB%E5%90%8D%E5%8A%A8%E6%80%81%E5%88%9B%E5%BB%BA%E5%AE%9E%E4%BE%8B%E5%AF%B9%E8%B1%A1/</loc>
+    <loc>https://jiadingyi.github.io/Tips/post/swift%E5%88%A9%E7%94%A8%E7%B1%BB%E5%90%8D%E5%8A%A8%E6%80%81%E5%88%9B%E5%BB%BA%E5%AE%9E%E4%BE%8B%E5%AF%B9%E8%B1%A1/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://jiadingyi.github.io/Tips/tags/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://jiadingyi.github.io/Tips/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/swift%E5%88%A9%E7%94%A8%E5%8D%8F%E8%AE%AE%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%BC%80%E5%8A%9F%E8%83%BD/</loc>
+    <loc>https://jiadingyi.github.io/Tips/post/swift%E5%88%A9%E7%94%A8%E5%8D%8F%E8%AE%AE%E5%AE%9E%E7%8E%B0%E5%89%8D%E7%BC%80%E5%8A%9F%E8%83%BD/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/swift%E4%B8%AD%E7%9A%84%E5%B1%9E%E6%80%A7/</loc>
+    <loc>https://jiadingyi.github.io/Tips/post/swift%E4%B8%AD%E7%9A%84%E5%B1%9E%E6%80%A7/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://jiadingyi.github.io/Tips/categories/</loc>
   </url>
 </urlset>

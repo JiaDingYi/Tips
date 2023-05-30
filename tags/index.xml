@@ -9,7 +9,16 @@
       <link>https://jiadingyi.github.io/Tips/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 May 2023 10:30:43 +0800</lastBuildDate><atom:link href="https://jiadingyi.github.io/Tips/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 11:00:37 +0800</lastBuildDate><atom:link href="https://jiadingyi.github.io/Tips/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>llvm</title>
+      <link>https://jiadingyi.github.io/Tips/tags/llvm/</link>
+      <pubDate>Tue, 30 May 2023 11:00:37 +0800</pubDate>
+      
+      <guid>https://jiadingyi.github.io/Tips/tags/llvm/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>StableDiffusion</title>
       <link>https://jiadingyi.github.io/Tips/tags/stablediffusion/</link>

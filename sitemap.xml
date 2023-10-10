@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jiadingyi.github.io/Tips/post/</loc>
+    <lastmod>2023-10-10T15:15:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jiadingyi.github.io/Tips/</loc>
+    <lastmod>2023-10-10T15:15:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jiadingyi.github.io/Tips/post/%E5%86%99%E7%BB%99ioser%E7%9A%84%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97-%E5%A6%82%E4%BD%95%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8Bandroid%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2023-10-10T15:15:21+08:00</lastmod>
+  </url><url>
     <loc>https://jiadingyi.github.io/Tips/tags/llvm/</loc>
     <lastmod>2023-05-30T11:00:37+08:00</lastmod>
   </url><url>
-    <loc>https://jiadingyi.github.io/Tips/post/</loc>
-    <lastmod>2023-05-30T11:00:37+08:00</lastmod>
-  </url><url>
     <loc>https://jiadingyi.github.io/Tips/tags/</loc>
-    <lastmod>2023-05-30T11:00:37+08:00</lastmod>
-  </url><url>
-    <loc>https://jiadingyi.github.io/Tips/</loc>
     <lastmod>2023-05-30T11:00:37+08:00</lastmod>
   </url><url>
     <loc>https://jiadingyi.github.io/Tips/post/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AAclang%E6%8F%92%E4%BB%B6/</loc>
